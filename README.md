@@ -1,2 +1,1 @@
-# FC
-TYT
+# project-template-fruit-catcher-I
